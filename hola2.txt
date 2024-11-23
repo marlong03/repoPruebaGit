@@ -1,7 +1,9 @@
 Hola 2 nuevo dia tengo que ir a jugar play
-cambios en masteres
-cambios en pruebas
+cambios en masteres 1
+cambios en pruebas 1 
 
 se esta probando cosas en pruebas que no han aparecido en produccíon
 
 este parrafo lo cambiaremos en pruebas
+
+nuevo parrafo en pruebas para pasar a master
